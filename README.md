@@ -34,7 +34,7 @@ The following technologies were used to build this app:
 - Redux
 # Installation and Setup
 To run this app, follow these steps:
-- Clone this repository: git clone https://github.com/your-username/contact-management-app.git
+- Clone this repository: git clone https://github.com/devrakeshswain/CoviCon.git
 - Install the dependencies: npm install
 - Start the app: npm start
 - The app should open in your default browser at http://localhost:3000/.
